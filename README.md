@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Hello! My name is Diego Taveras I’m a Front End Developer located in Long Island, New York. I love web development and everything that has to do with technology. I am passionate about learning new things and acquiring new experiences and skills. I am a lover of nature, sports, and working out. To learn more about my education and, experiences take a look at my resume.</h3>
+<h3 align="left">Hello! My name is Diego Taveras I’m a Front End Developer located in Long Island, New York. I love web development and everything that has to do with technology. I am passionate about learning new things and acquiring new experiences and skills. I am a lover of nature, sports, and working out. To learn more about my education and, experiences take a look at my resume.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.diegotaveras.com/](https://www.diegotaveras.com/)
+- 👨‍💻 Some of my projects are available at [https://www.diegotaveras.com/](https://www.diegotaveras.com/)
 
 - 📫 How to reach me **diegotaveras.dev@gmail.com**
 
